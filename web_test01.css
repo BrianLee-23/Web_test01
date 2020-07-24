@@ -1,0 +1,7 @@
+/* css의 주석*/
+
+/*선택자->무슨 태그에 스타일 적용할지*/
+div#hcenter {
+margin: 0 auto;
+width: 1000px;
+}
